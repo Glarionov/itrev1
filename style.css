@@ -1,0 +1,38 @@
+.circle {
+    width: 68px;
+    height: 68px;
+    border-radius: 68px;
+}
+
+.red {
+    background: red;
+}
+
+.green {
+    background: green;
+}
+
+body {
+    background: #190b06;
+}
+
+.content {
+    max-width: 100%;
+    background: #ffc79f;
+    width: 1200px;
+    margin: 2rem auto;
+    font-family: Arial, serif;
+    font-size: 20px;
+    padding: 2rem;
+}
+
+.main-form {
+    margin-bottom: 2rem;
+}
+
+.main-form input{
+    background: #8e0f0f;
+    color: white;
+    font-size: 18px;
+    margin-top: 1rem;
+}
